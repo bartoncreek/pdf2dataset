@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Usage 
 
-```
+``` bash
 from pdf_to_dataset import download_and_extract_text
 
 url = "http://example.com/sample.pdf"
@@ -32,3 +32,9 @@ dataset = download_and_extract_text(url, dataset_path)
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## No Fucking Emojis
+
+This repo adheres to the **NFE** credo.
+
+
