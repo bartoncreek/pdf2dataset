@@ -29,11 +29,11 @@ dataset_path = "/path/to/dataset"
 dataset = download_and_extract_text(url, dataset_path)
 ```
 
-## License
+### License
 
 This project is licensed under the terms of the MIT license.
 
-## No Fucking Emojis
+### No Fucking Emojis
 
 This repo adheres to the **NFE** credo.
 
